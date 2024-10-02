@@ -9,9 +9,6 @@ titleChangerButtom.addEventListener("click", (event)=> {
 
     document.body.style.backgroundColor = "#777777";
 
-
-    console.log("SBA 316");
-
     let secondTitle = document.getElementById("second-title")
     secondTitle.innerHTML = ("Welcome to your secret todo list!")
 

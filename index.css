@@ -14,7 +14,6 @@ h1 {
 }
 
 ul{
-    list-style-type: none;
     display: flex;
     flex-direction: column;
     padding: 0;
@@ -22,4 +21,13 @@ ul{
 
 li {
     margin: 6px;
+    list-style: inside;
+}
+
+#listContainer{
+    display: none;
+}
+
+#form {
+    display: none;
 }

@@ -4,14 +4,11 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /* height: 100vh; */
+    height: 100vh;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
   }
 
-h1 {
-    margin-top: 30vh;
-}
 
 ul{
     display: flex;

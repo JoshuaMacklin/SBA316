@@ -7,7 +7,7 @@ titleChangerButtom.addEventListener("click", (event)=> {
     messageList.style.display = "block";
     forms.style.display = "block";
 
-    document.body.style.backgroundColor = "#777777";
+    document.body.style.backgroundColor = "#555555";
 
     let secondTitle = document.getElementById("second-title")
     secondTitle.innerHTML = ("Welcome to your secret todo list!")
